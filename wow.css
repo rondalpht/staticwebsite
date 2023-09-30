@@ -1,0 +1,50 @@
+*{
+    background-color: cadetblue;
+}
+h1{
+    color:wheat;
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    font-size: 75px;
+}
+.emojit {
+    height: 50px;
+    width: 50px;
+    float:inline-end;
+    display: inline;
+}
+.bigbody{
+    height: 100px;
+    width:  75px;
+}
+.inline{
+    display: inline;
+}
+p{
+    font-size: 50px;
+}
+.park{
+    width: 500px;
+    height: 750px;
+}
+label{
+    font-size: 200px;
+}
+input{
+    font-size: 150px;
+}
+ul{
+    font-size:50px;
+}
+.val{
+    width: 500px;
+    height: 750px;
+}
+li{
+    font-size:50px;
+}
+table{
+    font-size: 30px;
+}
